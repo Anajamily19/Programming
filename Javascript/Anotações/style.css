@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(254, 218, 255); /* Podes usar nomes de cores, códigos HEX (#ff0000) ou RGB */
+}
+
+h1{
+color: rgb(110, 3, 143);
+font-size: 28px;
+
+}
+
+p{
+    color: rgb(41, 38, 240);
+
+}
+
+p1{
+    color: cornflowerblue;
+}
